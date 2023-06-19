@@ -1,0 +1,53 @@
+body{
+    background-color: palevioletred;
+}
+.div1{
+    transform: rotate(-12deg);
+    background-color: black;
+    color: rgb(255, 255, 255);
+    height: 340px;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 130px;
+    margin-left: 300px;
+    float:left;
+}
+.box{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: black;
+}
+.sub{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.p{
+    color: aliceblue;
+    margin-top:230px;
+    padding-left:60px;
+}
+.div2{
+    transform: rotate(12deg);
+    background-color: rgb(255, 254, 254);
+    color: rgb(4, 0, 0);
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 90px;
+    margin-left: -40px;
+    float: left;
+}
+.h3{
+  border-bottom: 3px solid rgb(96, 94, 94);
+}
+.p1{
+    padding-left: 30px;
+}
+.p2{
+    padding-left: 30px;
+}
+.p3{
+    margin-top: 250px;
+    padding-left: 70px;
+}

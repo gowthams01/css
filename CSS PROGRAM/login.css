@@ -1,0 +1,81 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+
+#div3{
+    border-radius:none;
+    height:2O%;
+    width:30%;
+    margin:20px;
+    }
+.click{
+    color: aliceblue;
+    background-color: rgb(96, 171, 193);
+    width: 100%;
+    border-radius: 40px;
+    
+}
+
+.div1{
+        background-color: aliceblue;
+        height: 300px;
+        width: 380px;
+        margin-right: auto ;
+        margin-left: auto;
+        text-align: center;
+    }
+
+    body{
+        background-color: rgb(43, 70, 68);
+    }
+    .icon1{
+        background-color: grey;
+        width: 25px;
+        height:25px;
+        float:left;
+        margin: 10px;
+        color: aliceblue;
+        border-radius: 20px;
+        margin-left: 130px;
+    }
+       
+    
+    .icon2{
+        background-color: grey;
+        width: 25px;
+        height:25px;
+        float:left;
+        margin: 10px;
+        color: aliceblue;
+        border-radius:20px;
+    }
+    .icon3{
+        background-color: grey;
+        width: 25px;
+        height:25px;
+        float:left;
+        margin: 10px;
+        color: aliceblue;
+        border-radius: 20px;
+    }
+    #hr{
+        width: 380px;
+        height: 1px;
+        background-color: black;
+    }
+    
+
+
+.signup{
+        margin: 30px;
+        text-align:center ;
+        font-size: 16px;
+        color: blue;
+
+
+    }
+    .hr{
+        width: 400px;
+        
+    }

@@ -1,0 +1,22 @@
+.div1{
+    background-color: red;
+    width: 400px;
+    height: 300px;
+}
+.div2{
+padding: 10%;
+}
+
+body{
+    background-color: aqua;
+}
+.container{
+    background-color: aliceblue;
+    height: 600px;
+    width: 400px;
+    margin-left: 400px;
+}
+.img{
+    height: 140px;
+    width: 200px;
+}

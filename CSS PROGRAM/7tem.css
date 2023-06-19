@@ -1,0 +1,44 @@
+.div1{
+    /* background-image: url("Bussinessman.jpg"); */
+   background-color: rgb(60, 163, 163);
+}
+
+ul li{
+    display: inline;
+    padding: 30px;
+}
+
+.div3{
+    /* margin: 10px;
+    border:1px solid white;
+    float:left;
+    display: inline;
+    width:200px;
+    background-color: black; */
+    float: left;
+}
+.text1{
+    padding:10px;
+    text-align: center;
+    color: white;
+}
+.img1{
+    margin: 10px;
+    border:1px solid rgb(220, 16, 16);
+    float:left;
+    width:200px;
+    background-color: black;
+}
+
+.img2{
+    margin: 10px;
+    border:1px solid rgb(186, 27, 27);
+    float:left;
+    display: inline;
+    width:200px;
+    background-color: black;
+}
+
+
+
+

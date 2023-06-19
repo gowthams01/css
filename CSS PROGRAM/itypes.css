@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(78, 172, 172);
+   
+}
+.intro{
+    text-align: center;
+}
+.div1{
+    background-color: aliceblue;
+    height: 160px;
+    width: 220px;
+    text-align:center;
+    margin: 20px ;
+    margin-left: 13px;
+    float: left;
+    text-decoration-line: underline;
+}
+.icon{
+     color: black;
+     font-size: 26px;
+     background-position: 50% 40% ;
+
+} 

@@ -1,0 +1,14 @@
+.div{
+    background-color: aqua;
+    height:300px;
+    text-align: center;
+    color: aliceblue;
+    margin-top: 16%;
+    
+}
+.img{ 
+    padding: 30px;
+    height: 100px;
+    width: 100px;
+    border-radius: 300px;
+}

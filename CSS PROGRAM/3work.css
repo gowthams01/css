@@ -1,0 +1,17 @@
+body{ 
+    background-image:url(960x0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.div1{
+    background-image: url(960x0.jpg);
+    height: 300px;
+    width: 500px;
+    background-size:cover;
+    margin-left: 300px;
+    margin-top: 30px;
+    padding: 100px;
+}
+    
+

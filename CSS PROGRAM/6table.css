@@ -1,0 +1,60 @@
+body{
+    background-color:rgb(157, 207, 226);
+}
+.div1{
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.bod{
+    background-image: url("https://thumbs.dreamstime.com/b/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg");
+    height: 300px;
+    width: 500px;
+    /* background-color: rgb(203, 199, 199);
+    height: 400px;
+    width: 600px; */
+    float: right;
+    margin-top: -350px;
+    border-top-left-radius: 200px;
+    border-bottom-left-radius: 200px;
+    margin-right: 300px;   
+}
+button{
+    height: 50px;
+    width: 150px;
+    margin-top: 1px;
+}
+.org1{
+    background-color: orangered;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+.org2{
+    background-color: orangered;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    border-radius: 20px;
+}
+.org3{
+    background-color: orangered;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    border-radius: 20px;}
+
+    .org4{
+        background-color:orangered ;
+        height: 200px;
+        width: 200px;
+        display: inline-block;
+        border-radius: 20px;}
+
+        .cen{
+            text-align: center;
+            margin-top: 40px;
+            color: aliceblue;
+        }

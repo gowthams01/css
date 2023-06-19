@@ -1,0 +1,40 @@
+div{
+    background-color: rgb(3, 3, 8);
+    color: aliceblue;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    padding: 30px;
+}
+.one{
+    background-color: black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px solid aqua;
+    outline: none;
+    width: 400px;
+}
+.one:focus{
+    color: white;
+}
+.button{
+    border:2px solid aqua;
+    color: aqua;
+    background-color: black;
+    margin-left: 86%;
+}
+
+body{
+    background-color: rgb(24, 26, 43);
+}
+.contain{
+    text-align: center;
+    margin-left: 40%;
+    color: aqua;
+    font-size:50px;
+    
+}
+h2{
+    text-align: center;
+}

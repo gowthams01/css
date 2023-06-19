@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://www.freecodecamp.org/news/content/images/2022/09/jonatan-pie-3l3RwQdHRHg-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    margin-top: 100px;
+    color: aliceblue;
+}
+p{
+    text-align: center;
+    color: aliceblue;
+}
+hr{
+    width: 150px;
+    color: black;
+}

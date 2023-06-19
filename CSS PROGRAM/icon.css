@@ -1,0 +1,74 @@
+.int{
+    text-align: center;
+    position:;
+    
+}
+.in{
+    text-align: center;
+}
+div{
+    background-color: aqua;
+    border:2px;
+    height: 50%;
+    width: 60%;
+    
+    margin-left: 20%;
+
+}
+body{
+    background-color: black;
+
+}
+#emi{
+    border-radius:none;
+    height:2O%;
+    width:90%;
+    margin:20px;
+    }
+
+    .box{
+        background-color: white;
+        height: 600px;
+        width: 500px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    
+    h1{
+        text-align: center;
+    }
+    
+    .div1{
+        background-color: blue;
+        width: 100px;
+        height: 50px;
+        float: left;
+        margin: 10px;
+        margin-left: 70px;
+    }
+    
+    .div2{
+        background-color:sandybrown;
+        width: 100px;
+        height: 50px;
+        float: left;
+        margin: 10px;
+    }
+    .div3{
+        background-color: yellowgreen;
+        width: 100px;
+        height: 100px;
+        float: left;
+        margin: 10px;
+        border-radius: 50%;
+    }
+    
+    .icon{
+        color: white;
+        font-size: 30px;
+       
+    }
+    .hr{
+        width: 150px;
+        color: blueviolet;
+    }

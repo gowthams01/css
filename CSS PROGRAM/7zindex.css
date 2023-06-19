@@ -1,0 +1,86 @@
+body{
+    background-color: rgb(69, 133, 135);
+    background-image: url("boss\ baby.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+h2{
+    margin-left: 10%;
+    color: rgb(91, 215, 54);
+}
+span{
+    color: red;
+}
+.p1{
+    margin-left: 55%;
+    margin-top: -55px;
+    color: rgb(8, 28, 63);
+}
+.p2{
+    margin-left: 80%;
+    margin-top: -50px;
+    color: rgb(8, 28, 63);
+}
+ul{
+    
+    margin-right:50px;
+}
+ul li{
+    display: inline;
+    padding: 20px;
+}
+.nav1{
+    background-color: aliceblue;
+    height: 35px;
+    width: 1000px;
+    border-radius: 30px;
+    padding:11px;
+    margin-left: 12%;
+    
+}
+a{
+    text-decoration: none;
+}
+.text{
+    padding: 110px;
+    margin-left: 55%;
+}
+.t1{
+    color: rgb(4, 0, 3);
+}
+h1,.t2{
+    color: white;
+}
+button{
+     margin-top: -450px;
+    margin-left: 70%;
+    height:100px ;
+    width: 120px;
+    background-color:blanchedalmond;
+    color: rgb(37, 155, 164);
+    border-top-left-radius:30px ;
+    border-bottom-right-radius: 30px;
+   
+}
+
+.location{
+    float: left;
+    color: yellow;
+    margin-left: 53%;
+    margin-top: -30px;
+
+}
+.clock{
+    color: brown;
+    margin-left: 24%;
+}
+.fb{
+    color: aqua;
+    margin-left: 300px;
+}
+.tw{
+    color:green;
+}
+.in{
+    color: yellow;
+}

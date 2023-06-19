@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(96, 93, 93);
+}
+
+.div1{
+    margin-top: -300px;
+    margin-left: 700px;
+}
+.div2{
+    color: orangered;
+}
+button{
+    background-color: orangered;
+    color: azure;
+}
+img{
+    margin-top: 40px;
+    margin-left: 300px;
+}
+.org1{
+    background-color: orangered;
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 15px;
+}
+.org2{
+    background-color: rgb(229, 81, 27);
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+
+}
+.org3{
+    background-color: rgb(188, 102, 71);
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+}
+.cen{
+    text-align: center;
+    color: aliceblue;
+}
+.but{
+    background-color: aliceblue;
+    margin-left: 165px;
+    color: orangered;
+}
+.icon{
+    margin-top: 20px;
+    margin-left: 190px;
+    color: aliceblue;
+    /* height: 50px;
+    width: 50px; */
+}

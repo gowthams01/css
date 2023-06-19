@@ -1,0 +1,43 @@
+body{
+    background-color:black;
+}
+div{
+   
+}
+.img1{
+   
+}
+.brad{
+  border-radius: 50%;
+}
+.img2{
+    margin-top: -50px;
+    margin-left: 90px;
+}
+.parent{
+    background-color:rgb(158, 158, 237);
+    height: 300px;
+    width: 300px;
+}
+.name{
+    word-spacing: 5px;
+    font-size: 20px;
+    margin-left: 70px;
+}
+.position{
+    margin-left: 77px;
+    margin-top: -20px;
+}
+.description{
+    margin-left: 16px;
+    padding: 6px;
+}
+hr{ 
+    background-color: black;
+    height: 2px;
+}
+.bottom{
+    margin-top: -40px;
+    margin-left: 100px;
+}
+

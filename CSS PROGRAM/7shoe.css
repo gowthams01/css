@@ -1,0 +1,43 @@
+body{
+    background-color: palevioletred;
+}
+.div1{
+    height:320px;
+    width:470px;
+    background-image:linear-gradient(yellow,pink);
+    margin-top: 10%;
+    margin-left: 2%;
+    float: left;
+}
+.div2{
+    height:500px;
+    width:350px;
+    background-color: white;
+    float: left;
+}
+.ic{
+    color: gold;
+    padding: 20px;
+
+}
+.dollor{
+    padding-left: 180px;
+    margin-top: -45px;
+    color: black; 
+}
+.h2{
+    padding-left: 20px;
+}
+.h3{
+    padding-left: 20px;
+}
+.p{
+    padding-left: 20px;
+}
+.cir{
+    padding-left: 100px;
+}
+.c1{
+    color: pink;
+    
+}

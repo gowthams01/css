@@ -1,0 +1,52 @@
+body{
+    background-image: url("animeback.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+ul li{
+    display: inline;
+    margin: 15px;
+    float:right;
+    margin-top: -20px;
+    color: aliceblue;
+    
+
+}
+div{
+    /* background-image: linear-gradient(); */
+     /* opacity: 1.0;  */
+    background-color: transparent;
+    
+}
+
+.h3{
+    /* text-align: center; */
+    /* clear: center; */
+    /* padding: 39px; */
+    color: aliceblue;
+    
+}
+.head{
+    margin-left: 410px;
+    margin-top: -25px;
+    color: aliceblue;
+}
+p{
+    text-align: center;
+    margin-right: 30px;
+    color: aliceblue;
+}
+.but{
+     margin-left: 530px;
+     background-color:black;
+     color: aliceblue;
+     border-radius: 30px;
+     height: 35px;
+     width: 150px;
+} 
+.con{
+    margin-left: 400px;
+    margin-top: 200px;
+    color: aliceblue;
+}

@@ -1,0 +1,16 @@
+
+body{
+    background-color: rgb(208, 153, 70);
+}
+.b1{
+    background-color: darksalmon;
+    height: 250px;
+    width: 300px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-top: 15px;
+    border-radius: 20px;
+}
+/* body{
+    background-color: blanchedalmond;
+} */
